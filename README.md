@@ -1,3 +1,3 @@
 # Portofolio
 Personal Portfolio Website
- https://swetha922.github.io/Portofolio/
+ https://swetha922.github.io/Portfolio/
